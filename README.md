@@ -1,4 +1,4 @@
 # pro1
-First day o GitHub
+First day on GitHub
 <br>
 hello GitHub 
